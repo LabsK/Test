@@ -1,0 +1,11 @@
+C:\Users\Dell\source\repos\ambassadorCore\SubaruAmbassador\obj\Debug\netcoreapp2.0\SubaruAmbassador.csprojResolveAssemblyReference.cache
+C:\Users\Dell\source\repos\ambassadorCore\SubaruAmbassador\bin\Debug\netcoreapp2.0\SubaruAmbassador.deps.json
+C:\Users\Dell\source\repos\ambassadorCore\SubaruAmbassador\bin\Debug\netcoreapp2.0\SubaruAmbassador.runtimeconfig.json
+C:\Users\Dell\source\repos\ambassadorCore\SubaruAmbassador\bin\Debug\netcoreapp2.0\SubaruAmbassador.runtimeconfig.dev.json
+C:\Users\Dell\source\repos\ambassadorCore\SubaruAmbassador\bin\Debug\netcoreapp2.0\SubaruAmbassador.dll
+C:\Users\Dell\source\repos\ambassadorCore\SubaruAmbassador\bin\Debug\netcoreapp2.0\SubaruAmbassador.pdb
+C:\Users\Dell\source\repos\ambassadorCore\SubaruAmbassador\obj\Debug\netcoreapp2.0\SubaruAmbassador.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\ambassadorCore\SubaruAmbassador\obj\Debug\netcoreapp2.0\SubaruAmbassador.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\ambassadorCore\SubaruAmbassador\obj\Debug\netcoreapp2.0\SubaruAmbassador.AssemblyInfo.cs
+C:\Users\Dell\source\repos\ambassadorCore\SubaruAmbassador\obj\Debug\netcoreapp2.0\SubaruAmbassador.dll
+C:\Users\Dell\source\repos\ambassadorCore\SubaruAmbassador\obj\Debug\netcoreapp2.0\SubaruAmbassador.pdb
